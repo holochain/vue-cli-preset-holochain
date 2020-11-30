@@ -26,7 +26,12 @@
             "usePolyfill": false,
             "useTheme": true
         },
-        "vue-cli-plugin-vuetify-cli": {}
+        "vue-cli-plugin-holochain": {
+            "prompts": true,
+            "replaceComponents": true
+
+        }
     },
+    "vueVersion": "2",
     "cssPreprocessor": "dart-sass"
 }
